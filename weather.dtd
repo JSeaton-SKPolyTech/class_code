@@ -1,0 +1,7 @@
+<!ELEMENT weather (day)+ >
+<!ELEMENT day (high, low, image) >
+<!ELEMENT high (#PCDATA) >
+<!ELEMENT low (#PCDATA) >
+<!ELEMENT image (#PCDATA) >
+
+<!ATTLIST high windchill PCDATA >

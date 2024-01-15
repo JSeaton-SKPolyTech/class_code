@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE weather SYSTEM "weather.dtd" >
+
+<weather>
+	<day>
+		<high windchill="-35" >-21</high>
+		<low>-36</low>
+		<image>./img/cloud_snow.svg</image>
+	</day>
+	<day>
+		<high windchill="-30" >-20</high>
+		<low>-26</low>
+		<image>./img/cloud_snow.svg</image>
+	</day>
+	<day>
+		<high windchill="-34" >-23</high>
+		<low>-27</low>
+		<image>./img/cloud_sun.svg</image>
+	</day>
+</weather>
